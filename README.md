@@ -1,14 +1,18 @@
 ![](./logo.gif)
-# TravelGenie - Being  A Creator Made Easy
-# [Download App Here](https://drive.google.com/file/d/11wZ_09a3Q_Dx0UdZoB4NDb7GwuoueZkc/view?usp=share_link)   
+# TravelGenie - Generative AI 
 A Generative AI Powered Platform for Travel App & Publishing Industry.
 
 
+# [Visit Deployed Site Here](https://hackout.teamcode.tech/)  
+UserID: user@gmail.com 
+Password: user@gmail.com    |   ADMIN UserID: admin@gmail.com
+Password: admin@gmail.com
+
 ## Problem it Solves
 
-- It provides user app to plan their travel and prepare travel iteniary.
-- Travel.Genie is our AI that performs actions on the iteniary giving essential summary and assisting the user.
-- Travel.Genie directly impacts publising and creator space for travel domain by proving all type of content generation for blogs, videos with copyright free assets.
+- Planning of  travel and preparation of travel iteniary with detailed nuances.
+- Giving essential summary and assisting the user with Generative AI Chatbots.
+- Empowering publising and creator space for travel domain by proving all type of content generation for blogs, videos with copyright free assets.
 
 ### AI Feature of Travel.Genie
 - Summarization, PDf chat with Langchain, Curated guide from Generative AI.
@@ -17,7 +21,7 @@ A Generative AI Powered Platform for Travel App & Publishing Industry.
 - Speech Syntesis with Human tones.
 - Royalty free high quatilty image generation with positive and negative prompting
 - create User Profile, with subscription plans
-
+- And many more
 ### Basic Features
 - Book rentals, flights, tour packages.
 - Explore various categories of Hotels, Places and destinations.
@@ -26,7 +30,7 @@ A Generative AI Powered Platform for Travel App & Publishing Industry.
 
 
 
-### ScreenShots of prideBnB 
+### PoC UI 
 <pre>
 <img src="./images/img1.jpg" alt="1" width="300" height="600" /> <img src="./images/img2.jpg" alt="1" width="300" height="600" /> <img src="./images/img3.jpg" alt="1" width="300" height="600" /> <img src="./images/img11.jpg" alt="1" width="300" height="600" /> <img src="./images/img4.jpg" alt="1" width="300" height="600" /> <img src="./images/img5.jpg" alt="1"
 	 width="300" height="600" /> <img src="./images/img6.jpg" alt="1"
