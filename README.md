@@ -30,12 +30,9 @@ Password: admin@gmail.com
 
 
 
-### PoC UI 
+### PoC UI [ Travel.Genie Creator Web App + Travel App] 
 <pre>
-<img src="./images/img1.jpg" alt="1" width="300" height="600" /> <img src="./images/img2.jpg" alt="1" width="300" height="600" /> <img src="./images/img3.jpg" alt="1" width="300" height="600" /> <img src="./images/img11.jpg" alt="1" width="300" height="600" /> <img src="./images/img4.jpg" alt="1" width="300" height="600" /> <img src="./images/img5.jpg" alt="1"
-	 width="300" height="600" /> <img src="./images/img6.jpg" alt="1"
-	 width="300" height="600" /> <img src="./images/img7.jpg" alt="1"
-	 width="300" height="600" />
+<img src="./ui.png" alt="1"  /><img src="./ui.png" alt="1"  /> 
 
 </pre>
 
