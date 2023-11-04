@@ -65,5 +65,5 @@ Password: admin@gmail.com
 - Prakhar Singh
 - Prarthana Agrawal
 
-Built with ❤️ by Team C.O.D.E 
-At Hackout2023 DTU
+Built with ❤️ by Team C.O.D.E <br>
+At Hackout 2023, DTU
