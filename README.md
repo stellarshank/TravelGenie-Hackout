@@ -41,7 +41,12 @@ Password: admin@gmail.com
 
 
 ## Challenges we faced
-
+- Creating engaing UI for Travel.Genie
+- Using Fine tuned custom LLM models
+- Prompt engineering to control responses
+- Integrating multimodal features to one platform
+- Database Desgin to handle all assets
+- Providing enterprise features of shared workspace
 - Gathering the data of categories as such hotels, restaurants, dineouts, beachers, etc.
 - Building the database for co-ordinates(latitude and Longitude) of the places.
 - Fetching reviews and ratings.
@@ -49,15 +54,15 @@ Password: admin@gmail.com
 - integrating multiple 3rd party services like maps, booking sites was the trickiest part.
 
 ## Proposed Enhancements
-- Scrapping data of hotels.
+- Creating pipeline between vendor app and Travel.Genie AI.
 - integrating ride booking.
 - Live in-app events.
 - Support for connecting chain on institutions.
 
 ### Contributors
-- Shubhi Singh
+- Aman Gupta 
 - Shashank Kumar
-- Aman Gupta
-- Richa Agrawal
+- Prakhar Singh
+- Prarthana Agrawal
 
 Built with ❤️ by Team C.O.D.E
