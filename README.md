@@ -5,7 +5,7 @@ A Generative AI Powered Platform for Travel App & Publishing Industry.
 
 # [Visit Deployed Site Here](https://hackout.teamcode.tech/)  
 UserID: user@gmail.com 
-Password: user@gmail.com    |   ADMIN UserID: admin@gmail.com
+Password: user@gmail.com    |   AdminID: admin@gmail.com
 Password: admin@gmail.com
 
 ## Problem it Solves
