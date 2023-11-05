@@ -40,6 +40,17 @@ Password: admin@gmail.com
 <img src="./ui.png" alt="1"  /><img src="./ui.png" alt="1"  />
 </pre>
 
+## Technology Used
+- React, Javascript
+- HTML CSS Bootstrap
+- PHP Laravel Blade
+- MySQL Firebase 
+- Azure Voice, Wishper
+- SST TTS, GCP
+- Gradio OpenAI API
+- Stable Diffusion Dall-E
+- Hugging Face API
+
 ## Challenges we faced
 - Creating engaing UI for Travel.Genie
 - Using Fine tuned custom LLM models
@@ -59,6 +70,21 @@ Password: admin@gmail.com
 - Live in-app events.
 - Support for connecting chain on institutions.
 
+## Installation of Project
+Prerequisite
+PHP v8.1,PHP Mbstring Extension,PHP PDO Extension,PHP FileInfo Extension,PHP JSON Extension,PHP CURL Extension,PHP ZipArchive Extension,PHP symlink() function,PHP shell_exec() function,PHP file_get_contents() function
+
+Setup Wamp or Xampp Server in case of Windows or LAMP Server in case of Linux or MAMP in case of Mac, Here I have used Cpanel beacause it is easy to setup in cpanel.
+
+Zip and upload only the contents of github Project to the root directory of your hosting server. Ex: /var/www/html/ or /home/username/public_html or whatever is the root folder of your domain/subdomain which will make it reachable as follows: http://yourwebsitename/ like in my case https://hackout.teamcode.tech
+
+After uploading all files and making sure that domain name has proper path set, create Mysql database and proper user in case if you don't already have one, to access this database. You can either create manually via your phpMyAdmin panel or use phpMyAdmin Wizard in your cPanel to create one
+
+Now open .env.example file in file manager and add the following details:- APP_URL= APP_EMAIL= DB_CONNECTION=mysql DB_HOST=localhost DB_PORT=3306 DB_DATABASE= DB_USERNAME= DB_PASSWORD= OPENAI_SECRET_KEY= Chatgpt api key finalyy change .env.example to .env and then save.
+
+Finally Import .sql content into phymyadmin of cpanel
+
+Boom!! Now you can open your Project with credentials user@gmail.com and user@gmail.com
 ### Contributors
 - Aman Gupta 
 - Shashank Kumar
